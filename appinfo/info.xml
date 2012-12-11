@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+	<id>joyride</id>
+	<name>JoyRide</name>
+	<description>Allows you to setup jQuery Feature Tours using JoyRide from Zurb.</description>
+	<version>1.0</version>
+	<licence>AGPL</licence>
+	<author>Myles McNamara</author>
+	<require>4</require>
+</info>
